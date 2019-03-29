@@ -1,0 +1,8 @@
+E:\Workspace\C#\御剑KEYGEN\御剑KEYGEN\bin\Debug\御剑KEYGEN.exe
+E:\Workspace\C#\御剑KEYGEN\御剑KEYGEN\bin\Debug\御剑KEYGEN.pdb
+E:\Workspace\C#\御剑KEYGEN\御剑KEYGEN\obj\Debug\御剑KEYGEN.csprojResolveAssemblyReference.cache
+E:\Workspace\C#\御剑KEYGEN\御剑KEYGEN\obj\Debug\御剑KEYGEN.Form1.resources
+E:\Workspace\C#\御剑KEYGEN\御剑KEYGEN\obj\Debug\御剑KEYGEN.Properties.Resources.resources
+E:\Workspace\C#\御剑KEYGEN\御剑KEYGEN\obj\Debug\御剑KEYGEN.csproj.GenerateResource.Cache
+E:\Workspace\C#\御剑KEYGEN\御剑KEYGEN\obj\Debug\御剑KEYGEN.exe
+E:\Workspace\C#\御剑KEYGEN\御剑KEYGEN\obj\Debug\御剑KEYGEN.pdb
